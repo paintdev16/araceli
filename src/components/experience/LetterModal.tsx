@@ -48,7 +48,7 @@ export function LetterModal({
           <X size={18} aria-hidden="true" />
         </button>
 
-        <p className="eyebrow">Unas palabras</p>
+        <p className="eyebrow">Para Araceli</p>
 
         <h2 id="letter-title" className="mt-4 max-w-sm font-serif text-[2.3rem] leading-[1.05] tracking-[-0.035em] text-[#fff8dc] md:text-[3rem]">
           Un detalle para ti
